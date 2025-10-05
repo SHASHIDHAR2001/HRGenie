@@ -12,6 +12,9 @@ Preferred communication style: Simple, everyday language.
 
 ## System Architecture
 
+<img width="1270" height="939" alt="image" src="https://github.com/user-attachments/assets/df34786a-1de4-4dc9-ada4-075747b6afb6" />
+
+
 ### Frontend Architecture
 
 **Framework**: React with TypeScript using Vite as the build tool and development server.
