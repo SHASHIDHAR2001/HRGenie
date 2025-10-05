@@ -12,8 +12,15 @@ Preferred communication style: Simple, everyday language.
 
 ## System Architecture
 
-<img width="1270" height="939" alt="image" src="https://github.com/user-attachments/assets/df34786a-1de4-4dc9-ada4-075747b6afb6" />
-
+<img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/b7362ee1-8c67-4da0-b56c-1c772a9d5d34" />
+<img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/d08d0316-cbbe-44d4-95cc-459c988ba2f2" />
+<img width="1919" height="992" alt="image" src="https://github.com/user-attachments/assets/f748aaf8-0dc8-4654-a187-73c3b561cfc7" />
+<img width="1916" height="996" alt="image" src="https://github.com/user-attachments/assets/c948086f-d8ad-4f99-a7df-fac64dec6ff6" />
+<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/709b4264-5c82-4543-a2ee-90938508333b" />
+<img width="1916" height="994" alt="image" src="https://github.com/user-attachments/assets/d669255f-a141-4369-91df-5f9c4cc6edc6" />
+<img width="1914" height="994" alt="image" src="https://github.com/user-attachments/assets/e28c2500-0b73-4f18-b395-2f0e155ef699" />
+<img width="1919" height="996" alt="image" src="https://github.com/user-attachments/assets/2cf3dc99-c039-4ca2-9445-09eb9e6e48ab" />
+<img width="1918" height="987" alt="image" src="https://github.com/user-attachments/assets/c3a6aae8-e96a-4bd8-8930-f8ba67c89748" />
 
 ### Frontend Architecture
 
